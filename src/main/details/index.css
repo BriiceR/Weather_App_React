@@ -1,0 +1,12 @@
+.details {
+    display: flex;
+    justify-content: space-around;
+    background-color: #343A40;
+    color: white;
+    padding: 1em;
+    margin-top: 4em;
+}
+
+.result {
+    font-weight: bold;
+}
